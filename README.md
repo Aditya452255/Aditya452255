@@ -1,7 +1,7 @@
 <!-- 🌐 Aditya Jain | Elite GitHub Profile -->
 
-<h1 align="center">👋 Hi, I'm Aditya Jain</h1>
-<h3 align="center">🚀 AI Agents • Automation • SaaS Builder | B.Tech CSE (AI & ML)</h3>
+<h1>👋 Hi, I'm Aditya Jain</h1>
+<h3>🚀 AI Agents • Automation • SaaS Builder | B.Tech CSE (AI & ML)</h3>
 
 <p align="center">
   <em>Building intelligent systems, multi-agent workflows, and scalable SaaS products.</em>
