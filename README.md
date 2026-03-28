@@ -55,7 +55,9 @@
 </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,cpp,tailwind,docker,aws,git,firebase,figma" />
 </p>
+
 ---
+
 ## 🚀 What I'm Building
 
 🔹 **AI Trading Floor (Capstone Project)**  
