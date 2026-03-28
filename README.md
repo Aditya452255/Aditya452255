@@ -3,11 +3,11 @@
 <h1>👋 Hi, I'm Aditya Jain</h1>
 <h3>🚀 AI Agents • Automation • SaaS Builder | B.Tech CSE (AI & ML)</h3>
 
-<p align="center">
+<p>
   <em>Building intelligent systems, multi-agent workflows, and scalable SaaS products.</em>
 </p>
 
-<p align="center">
+<p>
   <strong>⚡ Turning ideas into intelligent systems & real-world AI products</strong>
 </p>
 
