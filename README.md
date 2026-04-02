@@ -37,15 +37,15 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agentic%20AI-AutoGen%20%7C%20CrewAI%20%7C%20LangGraph%20%7C%20MCP-ff6f00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GenAI-LLMs%20%7C%20Transformers%20%7C%20OpenAI-8e24aa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-Workflows%20%7C%20Orchestration%20%7C%20Agents-37474f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Regression%20%7C%20Classification-f4511e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-ANNs%20%7C%20CNNs%20%7C%20RNNs-d84315?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-Embeddings%20%7C%20Attention%20%7C%20Tokenization-6d4c41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack-MERN%20%7C%20REST%20APIs%20%7C%20PWAs-1e88e5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20FastAPI-43a047?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Databases-MongoDB%20%7C%20SQL-00897b?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Agentic%20AI-AutoGen%20%7C%20CrewAI%20%7C%20LangGraph%20%7C%20MCP-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/GenAI-LLMs%20%7C%20Transformers%20%7C%20OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-Workflows%20%7C%20Orchestration%20%7C%20Agents-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Regression%20%7C%20Classification-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-ANNs%20%7C%20CNNs%20%7C%20RNNs-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-Embeddings%20%7C%20Attention%20%7C%20Tokenization-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack-MERN%20%7C%20REST%20APIs%20%7C%20PWAs-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20FastAPI-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Databases-MongoDB%20%7C%20SQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,cpp,tailwind,docker,aws,git,firebase,figma" />
 </p>
